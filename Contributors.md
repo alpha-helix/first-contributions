@@ -30,6 +30,7 @@
 - [TomKCA]()
 - [Hemant Patel](https://github.com/Hemant-Dev)
 - [Alex Babalau](https://github.com/alexbabalau)
+- [alpha-helix](https://github.com/alpha-helix)
 - [Neha Sahoo](https://github.com/neha-s14)
 - [Candice Ballarta](https://github.com/candicejoyballarta)
 - [Arsh Dhillon](https://github.com/arshd1230)
